@@ -15,7 +15,7 @@ Pastikan Anda telah menginstal perangkat berikut:
 1. **Clone repositori ini** ke dalam folder lokal Anda:
 
    ```bash
-   git clone https://github.com/Kelompok7PBO4609/TubesPBOKelompok7-SwanLake-Tech-.git
+   git clone https://github.com/RizaldyDeputra/FECompro.git
 
 2. Install dependensi proyek
    ```bash
